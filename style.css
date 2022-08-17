@@ -1,0 +1,61 @@
+*{
+    margin: 0%;
+    padding: 0%;
+   
+}
+.hero{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background: #eff;
+}
+
+nav ul{
+    display: flex;
+    width: 84%;
+    margin: auto;
+    padding: 20px 0;
+    align-self: center;
+    justify-content: space-between;
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 50px 70px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+nav ul li a:hover{
+    color: blue;
+}
+.detel h1{
+    font-size: 50px;
+    margin-bottom: 20px;
+    margin-left: 20%;
+    font-weight: bold;
+}
+.detel img{
+    width: 45%;
+    height: 50%;
+    margin-right: 35%;
+    margin-bottom: 0%;
+    margin-left: 60%;
+}
+.detel ul li{
+    margin-left: 40%;
+    margin-right: 50%;
+    margin-top: 2%;
+    border-color: chocolate;
+    border-width: 20%;
+}
+.detel p{
+    margin-left: 29%;
+}
+
+body img{
+    margin-top: 5%;
+    margin-left: 4%;
+}
